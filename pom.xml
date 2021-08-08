@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>ex-013-spring-cloud-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>ex-013-spring-cloud-eureka</name>
 	<description>Example project for Spring Boot</description>
 	<properties>
